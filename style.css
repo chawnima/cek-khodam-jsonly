@@ -65,3 +65,28 @@ input[type=text]{
   background-color: rgb(120, 119, 167);
   box-shadow: 0px 10px 10px rgba(52, 45, 56, 0.35);
   border-radius: 10px;}
+
+  .onestar{
+    color:rgb(80, 216, 80);
+  }
+  .twostar{
+    color:rgb(177, 216, 248)
+  }
+  .threestar{
+    color:rgb(204, 138, 235)
+  }
+  .fourstar{
+    color:rgb(221, 132, 132)
+  }
+  .fivestar{
+    color:rgb(219, 218, 130)
+  }
+  .container-star{
+    background-color: rgb(88, 88, 122);
+    border-radius: 5px;
+    padding:0px 5px;
+  }
+  .drop-rate{
+    text-align: center;
+    color:white;
+  }
